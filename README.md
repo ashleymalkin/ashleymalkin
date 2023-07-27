@@ -1,6 +1,8 @@
-Hi, I'm Ashley!
-I'm a high school student interested in neuroscience, machine learning, and linguistics. I'm still learning how to use GitHub, so bear with me please :)
-I mostly use Python, but I'm open to learning new things.
+# About Me! <br>  
+Hi, I'm Ashley!<br>  
+I'm a high school student interested in neuroscience, machine learning, and linguistics. I mostly use Python, but I'm open to learning new things. <br>  
+
+I'm still learning how to use GitHub, so bear with me please :)
 
 <!---
 ashleymalkin/ashleymalkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
